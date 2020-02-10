@@ -2,3 +2,5 @@ Trying to learn github
 I dont know github 
 lets try to learn github
 i know git is not github
+...
+Learning how to edit this file with the help of git and github for poets video 
